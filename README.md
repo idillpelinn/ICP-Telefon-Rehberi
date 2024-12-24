@@ -1,8 +1,6 @@
-# ICP-Telefon-Rehberi
+# ICP-Telefon-Rehberi 
 
-# Patika.dev Web3 Stajı Telefon Rehberi ve Mesajlaşma Sistemi  
-
-Bu proje, **Pelin İdil Güzel** tarafından Patika.dev Web3 Stajı kapsamında geliştirilmiş bir telefon rehberi ve mesajlaşma sistemi uygulamasıdır. Uygulama, kullanıcılardan alınan bilgileri bir **HashMap** yapısında saklayarak etkili bir veri yönetimi sağlar. Kod, **Motoko** dilinde yazılmıştır ve aşağıdaki özellikleri içermektedir.  
+Ben Pelin İdil GÜZEL , Patika.dev Web3 Stajı için yazmış olduğum kod dosyasıdır. Uygulama, kullanıcılardan alınan bilgileri bir **HashMap** yapısında saklayarak etkili bir veri yönetimi sağlar. Kod, **Motoko** dilinde yazılmıştır ve aşağıdaki özellikleri içermektedir.  
 
 ---
 
