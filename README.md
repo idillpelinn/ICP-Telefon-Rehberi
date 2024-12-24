@@ -3,6 +3,11 @@
 Ben Pelin İdil GÜZEL , Patika.dev Web3 Stajı için yazmış olduğum kod dosyasıdır. Uygulama, kullanıcılardan alınan bilgileri bir **HashMap** yapısında saklayarak etkili bir veri yönetimi sağlar. Kod, **Motoko** dilinde yazılmıştır ve aşağıdaki özellikleri içermektedir.  
 
 ---
+### Hakkımda  
+
+Merhaba, ben Pelin İdil Güzel. Yazılım mühendisliği alanında kendimi geliştirmeye odaklanmış bir mühendis adayıyım. Şu anda **frontend geliştirme** ve **veri bilimi** gibi alanlarda çalışmakta ve yenilikçi projeler üretmekteyim. Patika.dev Web3 Stajı boyunca, Motoko dilinde uygulamalar geliştirerek teknik bilgi birikimimi artırmayı ve Web3 teknolojilerine yönelik derin bir anlayış kazanmayı hedefliyorum.  
+
+---
 
 ### Özellikler  
 
